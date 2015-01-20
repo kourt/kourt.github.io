@@ -1,0 +1,45 @@
+body {
+padding-top: 50px;
+padding-bottom: 20px;
+}
+
+.jumbotron{
+text-align: center;
+background-image: url('https://pbs.twimg.com/profile_images/554853947580895232/e6wPCZoW.jpeg');
+color: red;
+}
+
+.btn-lg {
+font-size:36px;
+}
+
+.jumbotron h1 {
+font-family: 'Arvo', courier, serif;
+margin-top:0px;
+margin-bottom: 50px;
+
+}
+
+.jumbotron p {
+margin-bottom: 30px;
+font-weight: 100;
+padding: 0 50px;
+}
+
+ul.nav {
+font-family: 'Arvo', courier, serif;
+}
+
+ul.nav {
+font-size:13px;
+}
+
+h2 {
+font-family:Cursive;
+color:Purple;
+}
+
+p {
+font-family:Georgia;
+color:black;
+}
